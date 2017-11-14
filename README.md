@@ -13,6 +13,7 @@ You don't need to be a computer scientist to leverage technology to investigate 
 * [What is a radio](https://www.youtube.com/watch?v=jqGAneO79lY) - The theory and operation of early radio.
 * [Spectrum Video](https://www.youtube.com/watch?v=cfXzwh3KadE) - Science@NASA: An Introduction To The Electromagnetic Spectrum
 * [FCC Allocation Chart](https://www.nasa.gov/sites/default/files/thumbnails/image/january_2016_spectrum_wall_chart.jpg) - FCC Spectrum Allocation Chart
+* [Licenses near me](https://fcc-licenses-near.me/) - FCC licenses near me.  Use lightly
 * [Reboot.FCC](http://reboot.fcc.gov/spectrumdashboard/) - A better way to interact with spectrum allocation chart.
 * [GQRX](http://gqrx.dk/) - Open source software to get started making sense of radio.
 * [Dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices

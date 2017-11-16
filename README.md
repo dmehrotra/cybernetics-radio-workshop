@@ -19,7 +19,7 @@ You don't need to be a computer scientist to leverage technology to investigate 
 * [Dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 * [Flight Radar 24](https://www.flightradar24.com/) 
 * [FAA Aircraft Registrations](http://registry.faa.gov/aircraftinquiry/name_inquiry.aspx)
-* [Satellite Sounds](satellite-sounds.dhruvmehrotra.info) - Sniffing Satellite Imagery
+* [Satellite Sounds](http://satellite-sounds.dhruvmehrotra.info) - Sniffing Satellite Imagery
 
 ### Investigations
 * [Spies in the Sky](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies?utm_term=.cn52DRVlOq#.sfe94QxvnX) - Peter Aldhous + Charles Seife
